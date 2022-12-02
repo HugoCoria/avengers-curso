@@ -1,2 +1,4 @@
 # Misiones
-* Detener los planes del Dr. Herrera
+
+* Investigar los planes del Dr. Herrera
+* Capturar a Red Skull
